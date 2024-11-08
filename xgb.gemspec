@@ -1,7 +1,7 @@
 require_relative "lib/xgboost/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "xgb"
+  spec.name          = "honzasterba_xgb"
   spec.version       = XGBoost::VERSION
   spec.summary       = "High performance gradient boosting for Ruby"
   spec.homepage      = "https://github.com/ankane/xgboost-ruby"
