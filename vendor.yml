@@ -10,10 +10,10 @@ platforms:
     sha256: 4ee2881c1a0566b77a9b63c7f2f533f0fc1be032624e5b6e1d56cd92442593a9
   x86_64-darwin:
     url: https://github.com/honzasterba/ml-builds/releases/download/xgboost-2.1.2/xgboost-2.1.2-x86_64-darwin.zip
-    sha256: b24a4cf3a70e3eb9f44954373d8af5dfb5381419b37b0082e61385b9650cac2e
+    sha256: 0a199af32fde5fc3b297f08ec206da864d4a400562d1101fe8ab7f9391100a86
   arm64-darwin:
     url: https://github.com/honzasterba/ml-builds/releases/download/xgboost-2.1.2/xgboost-2.1.2-aarch64-darwin.zip
-    sha256: 0a199af32fde5fc3b297f08ec206da864d4a400562d1101fe8ab7f9391100a86
+    sha256: 7e3dfff17db820479261d90c23f47b6f2211094322b67f3ec18b3ce49904a009
   x64-mingw:
     url: https://github.com/honzasterba/ml-builds/releases/download/xgboost-2.1.2/xgboost-2.1.2-x86_64-windows.zip
     sha256: 6e5796339b221759ecab0a08e50c41695beefd7bb54a37997f1c032e607518bb
